@@ -1,0 +1,15 @@
+
+# Configuración privada
+/config/db.php
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos temporales y respaldos
+*.log
+*.bak
+*.tmp
+
+# Configuraciones locales
+.vscode/
